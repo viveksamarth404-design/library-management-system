@@ -1,0 +1,13 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library Management System - Flask + SQLite backend with a vanilla JS frontend",
+  "private": true,
+  "scripts": {
+    "start": "python app.py",
+    "test": "python -m pytest -v",
+    "lint": "node scripts/check.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
