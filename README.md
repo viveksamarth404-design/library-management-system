@@ -46,7 +46,7 @@ Requirements: Python 3.9+ and Node.js 18+ (Node is only needed for the optional 
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/viveksamarth404-design/library-management-system.git
 cd library-management-system
 
 # 2. (Optional) create a virtual environment
